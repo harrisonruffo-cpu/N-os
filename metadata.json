@@ -1,0 +1,6 @@
+{
+  "name": "Néos Consultoria Contábil",
+  "description": "Néos Consultoria Contábil: Raio-X Tributário, comparador de regimes fiscais e assessoria contábil moderna, humana e confiável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
